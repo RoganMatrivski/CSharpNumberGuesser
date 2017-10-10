@@ -1,4 +1,4 @@
-# Simple Number Guesser [![Build Status](https://travis-ci.org/RoganMatrivski/CSharpNumberGuesser)](https://travis-ci.org/RoganMatrivski/CSharpNumberGuesser.png) [![Build status](https://ci.appveyor.com/api/projects/status/385544hsqk3ni0vj?svg=true)](https://ci.appveyor.com/project/RoganMatrivski/csharpnumberguesser)
+# Simple Number Guesser [![Build Status](https://travis-ci.org/RoganMatrivski/CSharpNumberGuesser?branch=master)](https://travis-ci.org/RoganMatrivski/CSharpNumberGuesser.png) [![Build status](https://ci.appveyor.com/api/projects/status/385544hsqk3ni0vj?svg=true)](https://ci.appveyor.com/project/RoganMatrivski/csharpnumberguesser)
 
 A program that will guess the number you choose from a range of number.
 
