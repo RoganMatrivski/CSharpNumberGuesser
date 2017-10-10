@@ -1,0 +1,6 @@
+c:\users\rogan studio\documents\visual studio 2013\Projects\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+c:\users\rogan studio\documents\visual studio 2013\Projects\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+c:\users\rogan studio\documents\visual studio 2013\Projects\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+c:\users\rogan studio\documents\visual studio 2013\Projects\GuessTheNumber\obj\Debug\GuessTheNumber.csprojResolveAssemblyReference.cache
+c:\users\rogan studio\documents\visual studio 2013\Projects\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+c:\users\rogan studio\documents\visual studio 2013\Projects\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
