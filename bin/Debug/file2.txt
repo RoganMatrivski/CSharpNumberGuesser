@@ -1,0 +1,1575 @@
+Thread[10] : Start picking random number
+Thread[12] : Start picking random number
+Thread[11] : Start picking random number
+Thread[13] : Start picking random number
+Thread[13] : Initial guess : 4
+Thread[12] : Initial guess : 8
+Thread[10] : Initial guess : 1
+Thread[13] : In a range of 1 and 10, 4 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 1 and 10, 8 seems a bit too high. Choosing a lower number
+Thread[11] : Initial guess : 2
+Thread[12] : In a range of 1 and 8, 7 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 7, 3 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 3 and 7, 4 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 5. Took me 5 tries to guessed it.
+Thread[10] : In a range of 1 and 10, 1 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 5. Took me 2 tries to guessed it.
+Thread[10] : In a range of 1 and 10, 9 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 9, 1 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 10, 2 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 2 and 10, 6 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 5. Took me 3 tries to guessed it.
+Thread[10] : In a range of 1 and 9, 3 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 3 and 9, 6 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 3 and 6, 4 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 4 and 6, 4 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 5. Took me 8 tries to guessed it.
+Thread[13] : Start picking random number
+Thread[6] : Start picking random number
+Thread[10] : Start picking random number
+Thread[11] : Start picking random number
+Thread[10] : Initial guess : 665
+Thread[13] : Initial guess : 114
+Thread[11] : Initial guess : 697
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 171
+Thread[6] : Initial guess : 710
+Thread[12] : In a range of 1 and 1000, 171 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 171, 3 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 3 and 171, 31 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 31 and 171, 61 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 61 and 171, 63 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 1 and 1000, 114 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 114 and 1000, 500 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 114 and 500, 196 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 63 and 171, 151 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 1000, 697 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 697, 327 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 327, 155 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 63 and 151, 128 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 63 and 128, 105 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 105 and 128, 110 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 110 and 128, 120 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 155, 67 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 67 and 155, 115 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 1 and 1000, 665 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 665, 278 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 278, 38 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 1000, 710 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 114 and 196, 155 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 120 and 128, 125 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 120 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[12] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[11] : Found the number you've chosen which is 123. Took me 6 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 226
+Thread[12] : In a range of 1 and 1000, 226 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 226, 60 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 38 and 278, 208 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 710, 319 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 114 and 155, 124 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 319, 219 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 219, 26 seems a bit too low. Choosing a higher number
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 62
+Thread[11] : In a range of 1 and 1000, 62 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 62 and 1000, 473 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 62 and 473, 210 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 60 and 226, 185 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 60 and 185, 117 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 123. Took me 6 tries to guessed it.
+Thread[10] : In a range of 38 and 208, 43 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 43 and 208, 47 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 47 and 208, 101 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 101 and 208, 108 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 108 and 208, 194 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 26 and 219, 170 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 108 and 194, 108 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 108 and 194, 148 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 108 and 148, 119 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 62 and 210, 127 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 26 and 170, 143 seems a bit too high. Choosing a lower number
+Thread[13] : Start picking random number
+Thread[13] : Initial guess : 257
+Thread[12] : In a range of 117 and 185, 147 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 117 and 147, 137 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 117 and 137, 126 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 117 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 117 and 124, 119 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 119 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 119 and 148, 121 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 121 and 148, 144 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 144, 137 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 62 and 127, 93 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 26 and 143, 84 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 1 and 1000, 257 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 257, 254 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 254, 33 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 84 and 143, 97 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 97 and 143, 136 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 97 and 136, 109 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 11 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[10] : In a range of 121 and 137, 127 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 93 and 127, 107 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 33 and 254, 160 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 33 and 160, 36 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 36 and 160, 52 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 52 and 160, 66 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 66 and 160, 97 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 97 and 160, 104 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 107 and 127, 109 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 109 and 136, 113 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 113 and 136, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 136, 128 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 121 and 128, 125 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 127, 125 seems a bit too high. Choosing a lower number
+Thread[12] : Initial guess : 56
+Thread[12] : In a range of 1 and 1000, 56 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 56 and 1000, 496 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 56 and 496, 105 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 104 and 160, 157 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 109 and 127, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 18 tries to guessed it.
+Thread[6] : In a range of 121 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Start picking random number
+Thread[13] : In a range of 104 and 157, 155 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 104 and 155, 136 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 127, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 105 and 496, 114 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 114 and 496, 241 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 114 and 241, 234 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 114 and 234, 143 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 114 and 143, 115 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 115 and 143, 117 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 19 tries to guessed it.
+Thread[13] : In a range of 104 and 136, 119 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 119 and 136, 135 seems a bit too high. Choosing a lower number
+Thread[10] : Initial guess : 568
+Thread[10] : In a range of 1 and 1000, 568 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 863
+Thread[12] : In a range of 117 and 143, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 120 and 143, 137 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 120 and 137, 133 seems a bit too high. Choosing a lower number
+Thread[6] : Start picking random number
+Thread[13] : In a range of 119 and 135, 119 seems a bit too low. Choosing a higher number
+Thread[6] : Initial guess : 373
+Thread[6] : In a range of 1 and 1000, 373 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 373, 12 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 12 and 373, 351 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 568, 48 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 1000, 863 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 863, 206 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 206, 165 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 165, 29 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 29 and 165, 86 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 119 and 135, 134 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 120 and 133, 121 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 121 and 133, 126 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 121 and 126, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 12 and 351, 221 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 12 and 221, 34 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 48 and 568, 498 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 119 and 134, 131 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 119 and 131, 120 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 48 and 498, 399 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 48 and 399, 180 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 121 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 86 and 165, 116 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 48 and 180, 151 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 34 and 221, 191 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 48 and 151, 125 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 48 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 120 and 131, 129 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 120 and 129, 126 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 34 and 191, 159 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 116 and 165, 119 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 121 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 18 tries to guessed it.
+Thread[13] : In a range of 120 and 126, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 126, 122 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 123. Took me 23 tries to guessed it.
+Thread[13] : Start picking random number
+Thread[13] : Initial guess : 520
+Thread[11] : In a range of 119 and 165, 157 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 34 and 159, 91 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 91 and 159, 106 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 106 and 159, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 159, 141 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 121 and 141, 130 seems a bit too high. Choosing a lower number
+Thread[12] : Start picking random number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[13] : In a range of 1 and 1000, 520 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 520, 136 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 119 and 157, 151 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 119 and 151, 132 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 119 and 132, 120 seems a bit too low. Choosing a higher number
+Thread[12] : Initial guess : 890
+Thread[13] : In a range of 1 and 136, 80 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 80 and 136, 133 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 80 and 133, 126 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 80 and 126, 87 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 130, 126 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 121 and 126, 121 seems a bit too low. Choosing a higher number
+Thread[10] : Start picking random number
+Thread[10] : Initial guess : 668
+Thread[10] : In a range of 1 and 1000, 668 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 668, 641 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 641, 151 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 132, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 1 and 1000, 890 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 890, 72 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 87 and 126, 101 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 101 and 126, 110 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 110 and 126, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 151, 17 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 17 and 151, 79 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 79 and 151, 109 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 109 and 151, 113 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 113 and 151, 126 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 72 and 890, 479 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 132, 129 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[13] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[6] : Found the number you've chosen which is 123. Took me 16 tries to guessed it.
+Thread[6] : Start picking random number
+Thread[6] : Initial guess : 735
+Thread[6] : In a range of 1 and 1000, 735 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 735, 507 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 113 and 126, 115 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 115 and 126, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 129, 126 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 72 and 479, 382 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 126, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 507, 376 seems a bit too high. Choosing a lower number
+Thread[13] : Start picking random number
+Thread[13] : Initial guess : 597
+Thread[13] : In a range of 1 and 1000, 597 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 597, 461 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 461, 192 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 192, 151 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 151, 7 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 72 and 382, 351 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 72 and 351, 265 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[6] : In a range of 1 and 376, 370 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 370, 40 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 40 and 370, 355 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 40 and 355, 272 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 40 and 272, 194 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 7 and 151, 43 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 43 and 151, 63 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 63 and 151, 126 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 63 and 126, 106 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 17 tries to guessed it.
+Thread[12] : In a range of 72 and 265, 235 seems a bit too high. Choosing a lower number
+Thread[10] : Start picking random number
+Thread[10] : Initial guess : 258
+Thread[10] : In a range of 1 and 1000, 258 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 258, 67 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 67 and 258, 189 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 40 and 194, 148 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 40 and 148, 98 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 98 and 148, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 148, 147 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 106 and 126, 115 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 72 and 235, 204 seems a bit too high. Choosing a lower number
+Thread[11] : Start picking random number
+Thread[13] : In a range of 115 and 126, 121 seems a bit too low. Choosing a higher number
+Thread[11] : Initial guess : 238
+Thread[11] : In a range of 1 and 1000, 238 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 238, 236 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 236, 118 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 67 and 189, 102 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 102 and 189, 157 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 102 and 157, 151 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 147, 132 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 132, 131 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 131, 125 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 72 and 204, 107 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 121 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 121 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 121 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 118 and 236, 207 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 118 and 207, 199 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 118 and 199, 177 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 102 and 151, 129 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 102 and 129, 105 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 105 and 129, 106 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 106 and 129, 127 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 106 and 127, 110 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 107 and 204, 115 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 115 and 204, 128 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 115 and 128, 117 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 117 and 128, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 118 and 177, 174 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 110 and 127, 121 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 121 and 127, 121 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 121 and 127, 126 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 126, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 123. Took me 17 tries to guessed it.
+Thread[13] : Start picking random number
+Thread[13] : Initial guess : 533
+Thread[12] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[11] : In a range of 118 and 174, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 118 and 125, 120 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 121 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[6] : Found the number you've chosen which is 123. Took me 22 tries to guessed it.
+Thread[11] : In a range of 120 and 125, 120 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 120 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[12] : Initial guess : 714
+Thread[12] : In a range of 1 and 1000, 714 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 1000, 533 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 533, 406 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 406, 176 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 176, 149 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 19 tries to guessed it.
+Thread[6] : Start picking random number
+Thread[6] : Initial guess : 34
+Thread[11] : In a range of 121 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 121 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 1 and 714, 689 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 689, 57 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 57 and 689, 549 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 57 and 549, 341 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 149, 45 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 45 and 149, 111 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 111 and 149, 138 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 111 and 138, 115 seems a bit too low. Choosing a higher number
+Thread[10] : Start picking random number
+Thread[6] : In a range of 1 and 1000, 34 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 34 and 1000, 590 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 34 and 590, 213 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 57 and 341, 88 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 88 and 341, 282 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 88 and 282, 137 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 88 and 137, 110 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 110 and 137, 124 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 115 and 138, 128 seems a bit too high. Choosing a lower number
+Thread[10] : Initial guess : 701
+Thread[10] : In a range of 1 and 1000, 701 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 701, 510 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 510, 14 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 34 and 213, 193 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 16 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[13] : In a range of 115 and 128, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 110 and 124, 116 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 116 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 13 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 102
+Thread[12] : In a range of 1 and 1000, 102 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 102 and 1000, 241 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 14 and 510, 381 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 34 and 193, 157 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 34 and 157, 111 seems a bit too low. Choosing a higher number
+Thread[11] : Initial guess : 293
+Thread[13] : In a range of 115 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 121 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 111 and 157, 134 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 111 and 134, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 134, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 1000, 293 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 102 and 241, 104 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 14 and 381, 68 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 293, 199 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 199, 62 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 62 and 199, 91 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 91 and 199, 103 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[13] : Start picking random number
+Thread[13] : Initial guess : 560
+Thread[13] : In a range of 1 and 1000, 560 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 560, 189 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 121 and 134, 128 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 104 and 241, 148 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 68 and 381, 194 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 68 and 194, 129 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 68 and 129, 86 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 86 and 129, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 103 and 199, 158 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 103 and 158, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 104 and 148, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 120 and 148, 147 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 120 and 147, 143 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 121 and 128, 124 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 189, 109 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 109 and 189, 176 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 109 and 176, 138 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 109 and 138, 116 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 116 and 138, 134 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 10 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[11] : In a range of 120 and 158, 150 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 150, 136 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 136, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 125, 120 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 120 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[6] : Start picking random number
+Thread[6] : Initial guess : 512
+Thread[11] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 120 and 143, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 122 and 143, 138 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 116 and 134, 124 seems a bit too high. Choosing a lower number
+Thread[10] : Initial guess : 229
+Thread[10] : In a range of 1 and 1000, 229 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 229, 105 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 116 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 120 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 120 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 120 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 1000, 512 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 512, 361 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[12] : In a range of 122 and 138, 126 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 122 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 13 tries to guessed it.
+Thread[10] : In a range of 105 and 229, 133 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 4 tries to guessed it.
+Thread[13] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 361, 199 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 199, 57 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 57 and 199, 153 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 57 and 153, 144 seems a bit too high. Choosing a lower number
+Thread[11] : Initial guess : 505
+Thread[11] : In a range of 1 and 1000, 505 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 505, 164 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 164, 119 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 119 and 164, 121 seems a bit too low. Choosing a higher number
+Thread[12] : Start picking random number
+Thread[10] : Start picking random number
+Thread[13] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[13] : Start picking random number
+Thread[6] : In a range of 57 and 144, 130 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 57 and 130, 60 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 60 and 130, 72 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 72 and 130, 100 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 100 and 130, 121 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[11] : In a range of 121 and 164, 144 seems a bit too high. Choosing a lower number
+Thread[12] : Initial guess : 164
+Thread[10] : Initial guess : 551
+Thread[13] : Initial guess : 598
+Thread[13] : In a range of 1 and 1000, 598 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 598, 590 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 590, 546 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 546, 77 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 77 and 546, 528 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 77 and 528, 372 seems a bit too high. Choosing a lower number
+Thread[6] : Start picking random number
+Thread[6] : Initial guess : 585
+Thread[11] : In a range of 121 and 144, 130 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 1000, 164 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 1000, 551 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 164, 70 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 70 and 164, 97 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 97 and 164, 163 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 551, 513 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 513, 476 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 77 and 372, 141 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 77 and 141, 133 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 77 and 133, 110 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 1000, 585 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 121 and 130, 129 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 121 and 129, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 129, 124 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 10 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[12] : In a range of 97 and 163, 106 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 106 and 163, 160 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 476, 76 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 76 and 476, 329 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 76 and 329, 212 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 110 and 133, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 585, 378 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 76 and 212, 131 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 76 and 131, 86 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 86 and 131, 125 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 106 and 160, 144 seems a bit too high. Choosing a lower number
+Thread[11] : Initial guess : 711
+Thread[11] : In a range of 1 and 1000, 711 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 711, 241 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 241, 164 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 164, 50 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 50 and 164, 154 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 133, 129 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 106 and 144, 117 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 378, 296 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 296, 147 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 86 and 125, 103 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 147, 129 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 129, 7 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 117 and 144, 119 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 7 and 129, 43 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 43 and 129, 84 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 84 and 129, 114 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 50 and 154, 143 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 50 and 143, 136 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 129, 128 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 128, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 103 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[10] : Initial guess : 763
+Thread[10] : In a range of 1 and 1000, 763 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 119 and 144, 129 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 50 and 136, 120 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 114 and 129, 114 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 114 and 129, 115 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 115 and 129, 126 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 128, 124 seems a bit too high. Choosing a lower number
+Thread[13] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[11] : In a range of 120 and 136, 129 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 129, 127 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 127, 124 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[10] : In a range of 1 and 763, 489 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 119 and 129, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 119 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 120 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 115 and 126, 120 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 120 and 126, 120 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[10] : In a range of 1 and 489, 406 seems a bit too high. Choosing a lower number
+Thread[13] : Start picking random number
+Thread[10] : In a range of 1 and 406, 292 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 120 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[13] : Initial guess : 432
+Thread[13] : In a range of 1 and 1000, 432 seems a bit too high. Choosing a lower number
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 228
+Thread[11] : In a range of 1 and 1000, 228 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 228, 198 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 198, 149 seems a bit too high. Choosing a lower number
+Thread[6] : Start picking random number
+Thread[6] : Initial guess : 755
+Thread[6] : In a range of 1 and 1000, 755 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 755, 447 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 292, 101 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 120 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 1 and 432, 254 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 254, 34 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 34 and 254, 175 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 34 and 175, 147 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 149, 15 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 15 and 149, 90 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 90 and 149, 91 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 91 and 149, 140 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 91 and 140, 91 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 447, 367 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 101 and 292, 278 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 34 and 147, 92 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 92 and 147, 133 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 92 and 133, 104 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 104 and 133, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 133, 132 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 367, 1 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 367, 82 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 101 and 278, 193 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 91 and 140, 91 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 91 and 140, 119 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 82 and 367, 220 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 21 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 784
+Thread[13] : In a range of 122 and 132, 128 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 128, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 128, 125 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 101 and 193, 115 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 119 and 140, 119 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 82 and 220, 89 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 83
+Thread[11] : In a range of 1 and 1000, 83 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 83 and 1000, 879 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 1000, 784 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 784, 129 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 129, 101 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 115 and 193, 159 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 89 and 220, 200 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 89 and 200, 179 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 89 and 179, 177 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 89 and 177, 146 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 101 and 129, 128 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 101 and 128, 110 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 110 and 128, 114 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 83 and 879, 130 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 83 and 130, 115 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 115 and 130, 116 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 123. Took me 16 tries to guessed it.
+Thread[10] : In a range of 115 and 159, 156 seems a bit too high. Choosing a lower number
+Thread[13] : Start picking random number
+Thread[10] : In a range of 115 and 156, 136 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 115 and 136, 128 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 115 and 128, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 89 and 146, 132 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 114 and 128, 121 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 121 and 128, 127 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 121 and 127, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 122 and 127, 125 seems a bit too high. Choosing a lower number
+Thread[12] : Found the number you've chosen which is 123. Took me 11 tries to guessed it.
+Thread[11] : In a range of 116 and 130, 116 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 116 and 130, 117 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 117 and 130, 117 seems a bit too low. Choosing a higher number
+Thread[13] : Initial guess : 355
+Thread[10] : In a range of 121 and 128, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 128, 127 seems a bit too high. Choosing a lower number
+Thread[12] : Start picking random number
+Thread[6] : In a range of 89 and 132, 116 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 116 and 132, 128 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 116 and 128, 116 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 116 and 128, 118 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 118 and 128, 127 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 118 and 127, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 117 and 130, 124 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 10 tries to guessed it.
+Thread[13] : In a range of 1 and 1000, 355 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 355, 338 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 127, 125 seems a bit too high. Choosing a lower number
+Thread[12] : Initial guess : 940
+Thread[12] : In a range of 1 and 1000, 940 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 127, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 940, 555 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 21 tries to guessed it.
+Thread[10] : Found the number you've chosen which is 123. Took me 17 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[12] : In a range of 1 and 555, 467 seems a bit too high. Choosing a lower number
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 173
+Thread[13] : In a range of 1 and 338, 236 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 236, 48 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 48 and 236, 188 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 48 and 188, 51 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 51 and 188, 182 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 51 and 182, 59 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 59 and 182, 121 seems a bit too low. Choosing a higher number
+Thread[6] : Start picking random number
+Thread[10] : Initial guess : 958
+Thread[10] : In a range of 1 and 1000, 958 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 1000, 173 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 467, 65 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 173, 81 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 81 and 173, 97 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 97 and 173, 131 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 97 and 131, 98 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 98 and 131, 113 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 121 and 182, 169 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 121 and 169, 149 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 121 and 149, 129 seems a bit too high. Choosing a lower number
+Thread[6] : Initial guess : 387
+Thread[10] : In a range of 1 and 958, 675 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 113 and 131, 119 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 121 and 129, 128 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 65 and 467, 390 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 675, 18 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 18 and 675, 428 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 18 and 428, 407 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 18 and 407, 204 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 18 and 204, 156 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 18 and 156, 19 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 119 and 131, 129 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 1000, 387 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 387, 175 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 175, 70 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 121 and 128, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 65 and 390, 194 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 9 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[6] : In a range of 70 and 175, 126 seems a bit too high. Choosing a lower number
+Thread[13] : Found the number you've chosen which is 123. Took me 16 tries to guessed it.
+Thread[10] : In a range of 19 and 156, 133 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 19 and 133, 78 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 78 and 133, 114 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 114 and 133, 132 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 114 and 132, 115 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 115 and 132, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 65 and 194, 190 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 65 and 190, 126 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 65 and 126, 95 seems a bit too low. Choosing a higher number
+Thread[11] : Initial guess : 388
+Thread[11] : In a range of 1 and 1000, 388 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 70 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[13] : Start picking random number
+Thread[13] : Initial guess : 840
+Thread[13] : In a range of 1 and 1000, 840 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 840, 599 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 388, 105 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 105 and 388, 202 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 132, 129 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 95 and 126, 97 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 97 and 126, 97 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 97 and 126, 106 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 129, 128 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 70 and 124, 88 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 88 and 124, 98 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 98 and 124, 119 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 119 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 1 and 599, 328 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 328, 316 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 106 and 126, 117 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 105 and 202, 163 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 105 and 163, 118 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 118 and 163, 131 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 128, 125 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 18 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[10] : Initial guess : 527
+Thread[6] : Found the number you've chosen which is 123. Took me 10 tries to guessed it.
+Thread[6] : Start picking random number
+Thread[13] : In a range of 1 and 316, 198 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 1000, 527 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 527, 498 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 3 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[12] : In a range of 117 and 126, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 120 and 126, 120 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 118 and 131, 130 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 120 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 120 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[6] : Initial guess : 75
+Thread[6] : In a range of 1 and 1000, 75 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 18 tries to guessed it.
+Thread[13] : In a range of 1 and 198, 162 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 162, 24 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 24 and 162, 106 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 106 and 162, 151 seems a bit too high. Choosing a lower number
+Thread[10] : Initial guess : 108
+Thread[10] : In a range of 1 and 1000, 108 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 75 and 1000, 319 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 118 and 130, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 121 and 130, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 121 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[12] : Start picking random number
+Thread[6] : In a range of 75 and 319, 127 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 75 and 127, 107 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 107 and 127, 114 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 106 and 151, 143 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 114 and 127, 121 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 108 and 1000, 647 seems a bit too high. Choosing a lower number
+Thread[6] : Found the number you've chosen which is 123. Took me 7 tries to guessed it.
+Thread[12] : Initial guess : 695
+Thread[6] : Start picking random number
+Thread[6] : Initial guess : 193
+Thread[6] : In a range of 1 and 1000, 193 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 121 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 108 and 647, 184 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 108 and 184, 157 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 108 and 157, 117 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 117 and 157, 130 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 106 and 143, 118 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 1 and 1000, 695 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 193, 94 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 94 and 193, 184 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 94 and 184, 158 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 94 and 158, 150 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 94 and 150, 112 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 628
+Thread[10] : In a range of 117 and 130, 125 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 117 and 125, 118 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 118 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 10 tries to guessed it.
+Thread[13] : In a range of 118 and 143, 142 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 695, 28 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 28 and 695, 415 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 28 and 415, 61 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 112 and 150, 143 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 112 and 143, 137 seems a bit too high. Choosing a lower number
+Thread[10] : Start picking random number
+Thread[11] : In a range of 1 and 1000, 628 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 628, 8 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 8 and 628, 491 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 8 and 491, 154 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 8 and 154, 111 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 118 and 142, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 142, 139 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 139, 127 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 61 and 415, 151 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 61 and 151, 114 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 112 and 137, 115 seems a bit too low. Choosing a higher number
+Thread[10] : Initial guess : 191
+Thread[6] : In a range of 115 and 137, 132 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 115 and 132, 118 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 118 and 132, 119 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 119 and 132, 128 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 1000, 191 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 111 and 154, 153 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 127, 125 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 114 and 151, 129 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 114 and 129, 118 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 1 and 191, 162 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 119 and 128, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 128, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 128, 127 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 121 and 127, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 111 and 153, 128 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 111 and 128, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 121 and 128, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 128, 126 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[10] : In a range of 1 and 162, 50 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 118 and 129, 125 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 118 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 123. Took me 22 tries to guessed it.
+Thread[12] : Found the number you've chosen which is 123. Took me 11 tries to guessed it.
+Thread[10] : In a range of 50 and 162, 158 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 121 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 19 tries to guessed it.
+Thread[6] : Start picking random number
+Thread[13] : Start picking random number
+Thread[13] : Initial guess : 320
+Thread[13] : In a range of 1 and 1000, 320 seems a bit too high. Choosing a lower number
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 971
+Thread[12] : Start picking random number
+Thread[6] : Initial guess : 364
+Thread[12] : Initial guess : 185
+Thread[10] : In a range of 50 and 158, 106 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 106 and 158, 140 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 106 and 140, 136 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 106 and 136, 126 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 106 and 126, 113 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 1000, 971 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 971, 146 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 146, 10 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 1 and 320, 15 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 10 and 146, 48 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 48 and 146, 111 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 1000, 364 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 1000, 185 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 185, 37 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 37 and 185, 89 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 113 and 126, 121 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 15 and 320, 115 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 115 and 320, 240 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 115 and 240, 203 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 115 and 203, 127 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 115 and 127, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 127, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 127, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 111 and 146, 118 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 364, 313 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 89 and 185, 150 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 89 and 150, 132 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 89 and 132, 91 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 123. Took me 10 tries to guessed it.
+Thread[6] : In a range of 1 and 313, 269 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 269, 134 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 134, 40 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 40 and 134, 79 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 118 and 146, 134 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 118 and 134, 126 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 118 and 126, 118 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 118 and 126, 121 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[13] : Start picking random number
+Thread[12] : In a range of 91 and 132, 130 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 91 and 130, 104 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 79 and 134, 107 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 107 and 134, 132 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 107 and 132, 117 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 117 and 132, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 132, 125 seems a bit too high. Choosing a lower number
+Thread[10] : Initial guess : 594
+Thread[10] : In a range of 1 and 1000, 594 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 594, 15 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 121 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 121 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[13] : Initial guess : 620
+Thread[12] : In a range of 104 and 130, 106 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 106 and 130, 126 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 106 and 126, 111 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 121 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 16 tries to guessed it.
+Thread[10] : In a range of 15 and 594, 587 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 15 and 587, 67 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 121 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[13] : In a range of 1 and 1000, 620 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 620, 5 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 111 and 126, 120 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 13 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 37
+Thread[6] : Start picking random number
+Thread[6] : Initial guess : 374
+Thread[10] : In a range of 67 and 587, 418 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 67 and 418, 79 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 79 and 418, 320 seems a bit too high. Choosing a lower number
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 912
+Thread[11] : In a range of 1 and 1000, 912 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 5 and 620, 128 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 5 and 128, 37 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 37 and 128, 43 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 1 and 1000, 37 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 37 and 1000, 328 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 1000, 374 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 374, 28 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 28 and 374, 30 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 79 and 320, 206 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 79 and 206, 162 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 30 and 374, 47 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 79 and 162, 127 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 79 and 127, 84 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 912, 428 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 428, 119 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 119 and 428, 401 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 43 and 128, 104 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 37 and 328, 128 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 37 and 128, 37 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 37 and 128, 99 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 99 and 128, 125 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 99 and 125, 113 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 47 and 374, 129 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 84 and 127, 84 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 84 and 127, 88 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 88 and 127, 119 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 119 and 127, 124 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 104 and 128, 116 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 119 and 401, 374 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 119 and 374, 351 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 119 and 351, 161 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 119 and 161, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 119 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 120 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 47 and 129, 74 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 113 and 125, 118 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 118 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 119 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 17 tries to guessed it.
+Thread[13] : In a range of 116 and 128, 127 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 116 and 127, 119 seems a bit too low. Choosing a higher number
+Thread[13] : Found the number you've chosen which is 123. Took me 10 tries to guessed it.
+Thread[13] : Start picking random number
+Thread[12] : In a range of 121 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 74 and 129, 112 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[13] : Initial guess : 419
+Thread[10] : Start picking random number
+Thread[10] : Initial guess : 497
+Thread[10] : In a range of 1 and 1000, 497 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 112 and 129, 117 seems a bit too low. Choosing a higher number
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 971
+Thread[11] : In a range of 1 and 1000, 971 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 971, 211 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 211, 190 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 1000, 419 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 419, 129 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 129, 45 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 45 and 129, 108 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 108 and 129, 108 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 1 and 497, 479 seems a bit too high. Choosing a lower number
+Thread[12] : Found the number you've chosen which is 123. Took me 13 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[6] : In a range of 117 and 129, 125 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 117 and 125, 118 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 118 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 121 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 190, 46 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 46 and 190, 120 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 108 and 129, 110 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 1 and 479, 338 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 338, 138 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 138, 81 seems a bit too low. Choosing a higher number
+Thread[12] : Initial guess : 12
+Thread[12] : In a range of 1 and 1000, 12 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 81 and 138, 82 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 110 and 129, 110 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 120 and 190, 120 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[6] : Start picking random number
+Thread[6] : Initial guess : 296
+Thread[6] : In a range of 1 and 1000, 296 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 296, 42 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 42 and 296, 149 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 12 and 1000, 870 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 82 and 138, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 138, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 110 and 129, 112 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 112 and 129, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 120 and 190, 163 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 163, 143 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 121 and 129, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 129, 125 seems a bit too high. Choosing a lower number
+Thread[13] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[12] : In a range of 12 and 870, 766 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 42 and 149, 119 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 5 tries to guessed it.
+Thread[6] : Start picking random number
+Thread[10] : In a range of 122 and 138, 131 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 143, 134 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 134, 130 seems a bit too high. Choosing a lower number
+Thread[6] : Initial guess : 5
+Thread[6] : In a range of 1 and 1000, 5 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 5 and 1000, 29 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 29 and 1000, 776 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 12 and 766, 14 seems a bit too low. Choosing a higher number
+Thread[13] : Start picking random number
+Thread[13] : Initial guess : 409
+Thread[13] : In a range of 1 and 1000, 409 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 409, 360 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 131, 124 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[11] : In a range of 120 and 130, 128 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 120 and 128, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 128, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 14 and 766, 568 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 14 and 568, 340 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 29 and 776, 484 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 29 and 484, 319 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 29 and 319, 115 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 1 and 360, 272 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 272, 128 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 1 and 128, 7 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 7 and 128, 83 seems a bit too low. Choosing a higher number
+Thread[10] : Start picking random number
+Thread[10] : Initial guess : 23
+Thread[10] : In a range of 1 and 1000, 23 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[12] : In a range of 14 and 340, 21 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 21 and 340, 42 seems a bit too low. Choosing a higher number
+Thread[11] : Start picking random number
+Thread[6] : In a range of 115 and 319, 144 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 115 and 144, 135 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 115 and 135, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 135, 126 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 83 and 128, 126 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 23 and 1000, 563 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 23 and 563, 305 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 23 and 305, 184 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 23 and 184, 81 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 83 and 126, 111 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 111 and 126, 118 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 42 and 340, 181 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 42 and 181, 148 seems a bit too high. Choosing a lower number
+Thread[11] : Initial guess : 250
+Thread[11] : In a range of 1 and 1000, 250 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 126, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 42 and 148, 77 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 77 and 148, 93 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 93 and 148, 118 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 81 and 184, 125 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 81 and 125, 105 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 105 and 125, 107 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 107 and 125, 120 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 118 and 126, 118 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 118 and 126, 120 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 250, 116 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 116 and 250, 213 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 116 and 213, 156 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 116 and 156, 152 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 120 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 118 and 148, 143 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 120 and 126, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 122 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[13] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[13] : Start picking random number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[6] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[6] : Start picking random number
+Thread[6] : Initial guess : 888
+Thread[6] : In a range of 1 and 1000, 888 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 888, 662 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 116 and 152, 137 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 11 tries to guessed it.
+Thread[12] : In a range of 118 and 143, 142 seems a bit too high. Choosing a lower number
+Thread[13] : Initial guess : 88
+Thread[13] : In a range of 1 and 1000, 88 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 1 and 662, 609 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 609, 153 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 1 and 153, 10 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 10 and 153, 33 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 118 and 142, 138 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 118 and 138, 137 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 33 and 153, 58 seems a bit too low. Choosing a higher number
+Thread[10] : Start picking random number
+Thread[11] : In a range of 116 and 137, 126 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 116 and 126, 120 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 120 and 126, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 126, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 88 and 1000, 929 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 88 and 929, 656 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 88 and 656, 594 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 118 and 137, 127 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 88 and 594, 198 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 88 and 198, 96 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 58 and 153, 137 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 58 and 137, 61 seems a bit too low. Choosing a higher number
+Thread[10] : Initial guess : 937
+Thread[6] : In a range of 61 and 137, 110 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 110 and 137, 118 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 118 and 137, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 96 and 198, 168 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 118 and 127, 126 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 118 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 118 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 1 and 1000, 937 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 937, 247 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 247, 99 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 99 and 247, 132 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 137, 128 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 128, 126 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[13] : In a range of 96 and 168, 106 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 106 and 168, 160 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 106 and 160, 114 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 22 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 248
+Thread[10] : In a range of 99 and 132, 124 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 99 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[11] : Initial guess : 86
+Thread[11] : In a range of 1 and 1000, 86 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 114 and 160, 115 seems a bit too low. Choosing a higher number
+Thread[13] : In a range of 115 and 160, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 1 and 1000, 248 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 248, 86 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 86 and 248, 167 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 86 and 167, 111 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 9 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[11] : In a range of 86 and 1000, 983 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 86 and 983, 176 seems a bit too high. Choosing a lower number
+Thread[13] : In a range of 120 and 160, 141 seems a bit too high. Choosing a lower number
+Thread[13] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[11] : In a range of 86 and 176, 174 seems a bit too high. Choosing a lower number
+Thread[10] : Initial guess : 938
+Thread[10] : In a range of 1 and 1000, 938 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 938, 622 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 622, 251 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 111 and 167, 134 seems a bit too high. Choosing a lower number
+Thread[6] : In a range of 122 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 111 and 134, 133 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 86 and 174, 132 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 86 and 132, 103 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 103 and 132, 104 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 104 and 132, 110 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 9 tries to guessed it.
+Thread[6] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[6] : Found the number you've chosen which is 123. Took me 20 tries to guessed it.
+Thread[12] : In a range of 111 and 133, 113 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 1 and 251, 117 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 117 and 251, 195 seems a bit too high. Choosing a lower number
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 617
+Thread[11] : In a range of 1 and 1000, 617 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 617, 6 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 117 and 195, 152 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 117 and 152, 125 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 117 and 125, 117 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 117 and 125, 117 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 113 and 133, 115 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 115 and 133, 128 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 115 and 128, 115 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 6 and 617, 86 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 86 and 617, 371 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 86 and 371, 131 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 117 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 117 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[11] : In a range of 86 and 131, 129 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 86 and 129, 101 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 101 and 129, 112 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 11 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 354
+Thread[10] : Initial guess : 520
+Thread[10] : In a range of 1 and 1000, 520 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 520, 70 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 70 and 520, 370 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 70 and 370, 147 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 70 and 147, 98 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 98 and 147, 117 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 112 and 129, 114 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 114 and 129, 127 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 1000, 354 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 117 and 147, 135 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 117 and 135, 120 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 120 and 135, 120 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 120 and 135, 128 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 114 and 127, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 121 and 127, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 127, 126 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[12] : In a range of 1 and 354, 31 seems a bit too low. Choosing a higher number
+Thread[11] : Initial guess : 468
+Thread[10] : In a range of 120 and 128, 120 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 120 and 128, 121 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 121 and 128, 127 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 127, 125 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 121 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 16 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[10] : Initial guess : 437
+Thread[10] : In a range of 1 and 1000, 437 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 31 and 354, 194 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 1000, 468 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 468, 300 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 300, 284 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 31 and 194, 98 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 1 and 437, 91 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 98 and 194, 119 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 119 and 194, 132 seems a bit too high. Choosing a lower number
+Thread[12] : Found the number you've chosen which is 123. Took me 7 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[11] : In a range of 1 and 284, 243 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 243, 50 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 91 and 437, 170 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 91 and 170, 99 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 99 and 170, 152 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 99 and 152, 133 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 99 and 133, 117 seems a bit too low. Choosing a higher number
+Thread[12] : Initial guess : 729
+Thread[12] : In a range of 1 and 1000, 729 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 729, 458 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 458, 217 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 217, 93 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 50 and 243, 81 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 81 and 243, 174 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 117 and 133, 131 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 117 and 131, 121 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 93 and 217, 164 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 93 and 164, 135 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 93 and 135, 126 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 93 and 126, 107 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 107 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 107 and 125, 111 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 111 and 125, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 81 and 174, 166 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 81 and 166, 105 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 121 and 131, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 131, 126 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 13 tries to guessed it.
+Thread[11] : In a range of 105 and 166, 148 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 121 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 121 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 131
+Thread[12] : In a range of 1 and 1000, 131 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 131, 126 seems a bit too high. Choosing a lower number
+Thread[10] : Start picking random number
+Thread[11] : In a range of 105 and 148, 115 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 115 and 148, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 115 and 124, 116 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 1 and 126, 71 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 71 and 126, 72 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 72 and 126, 93 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 93 and 126, 94 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 94 and 126, 117 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 117 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 117 and 124, 119 seems a bit too low. Choosing a higher number
+Thread[10] : Initial guess : 186
+Thread[11] : In a range of 116 and 124, 119 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 1 and 1000, 186 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 186, 52 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 52 and 186, 94 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 94 and 186, 162 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 94 and 162, 94 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 94 and 162, 96 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 96 and 162, 116 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 119 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 120 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 12 tries to guessed it.
+Thread[11] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 925
+Thread[10] : In a range of 116 and 162, 131 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 1000, 925 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 925, 700 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 700, 31 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 116 and 131, 126 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 116 and 126, 122 seems a bit too low. Choosing a higher number
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 467
+Thread[12] : In a range of 1 and 1000, 467 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 11 tries to guessed it.
+Thread[11] : In a range of 31 and 700, 402 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 31 and 402, 39 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 39 and 402, 103 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 1 and 467, 216 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 216, 197 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 197, 24 seems a bit too low. Choosing a higher number
+Thread[10] : Start picking random number
+Thread[10] : Initial guess : 91
+Thread[10] : In a range of 1 and 1000, 91 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 91 and 1000, 796 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 103 and 402, 288 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 24 and 197, 149 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 103 and 288, 242 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 103 and 242, 146 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 103 and 146, 141 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 103 and 141, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 103 and 124, 112 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 112 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 91 and 796, 141 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 91 and 141, 99 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 24 and 149, 135 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 24 and 135, 101 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 101 and 135, 102 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 102 and 135, 125 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[10] : In a range of 99 and 141, 113 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 113 and 141, 133 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 113 and 133, 119 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 119 and 133, 130 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 119 and 130, 126 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 119 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 102 and 125, 109 seems a bit too low. Choosing a higher number
+Thread[11] : Initial guess : 210
+Thread[11] : In a range of 1 and 1000, 210 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 210, 68 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 68 and 210, 183 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 68 and 183, 153 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 68 and 153, 69 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 69 and 153, 105 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 109 and 125, 109 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 119 and 125, 119 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 119 and 125, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 105 and 153, 135 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 16 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[12] : In a range of 109 and 125, 118 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 13 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 88
+Thread[12] : In a range of 1 and 1000, 88 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 88 and 1000, 404 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 105 and 135, 133 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 105 and 133, 106 seems a bit too low. Choosing a higher number
+Thread[10] : Initial guess : 353
+Thread[10] : In a range of 1 and 1000, 353 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 353, 267 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 267, 77 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 77 and 267, 101 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 106 and 133, 114 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 101 and 267, 186 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 88 and 404, 107 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 107 and 404, 326 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 107 and 326, 307 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 114 and 133, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 101 and 186, 107 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 107 and 186, 116 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 116 and 186, 130 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 116 and 130, 128 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 116 and 128, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 107 and 307, 202 seems a bit too high. Choosing a lower number
+Thread[10] : Found the number you've chosen which is 123. Took me 11 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[10] : Initial guess : 626
+Thread[10] : In a range of 1 and 1000, 626 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 133, 132 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 132, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 107 and 202, 133 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 107 and 133, 109 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 9 tries to guessed it.
+Thread[12] : Start picking random number
+Thread[12] : Initial guess : 426
+Thread[11] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[10] : In a range of 1 and 626, 427 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 427, 77 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 77 and 427, 77 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 1 and 1000, 426 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 1 and 426, 262 seems a bit too high. Choosing a lower number
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 346
+Thread[12] : In a range of 1 and 262, 76 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 76 and 262, 198 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 76 and 198, 116 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 116 and 198, 181 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 77 and 427, 154 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 77 and 154, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 1 and 1000, 346 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 346, 230 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 230, 141 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 141, 82 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 82 and 141, 130 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 82 and 130, 110 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 110 and 130, 116 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 116 and 181, 130 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 116 and 130, 125 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 116 and 130, 128 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 154, 135 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 116 and 128, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 116 and 125, 124 seems a bit too high. Choosing a lower number
+Thread[12] : In a range of 116 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 120 and 124, 120 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 120 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[12] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[12] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[10] : In a range of 122 and 135, 129 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 129, 124 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 120 and 128, 127 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[11] : In a range of 120 and 127, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 121 and 127, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 14 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[10] : Initial guess : 776
+Thread[10] : In a range of 1 and 1000, 776 seems a bit too high. Choosing a lower number
+Thread[11] : Initial guess : 431
+Thread[11] : In a range of 1 and 1000, 431 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 431, 424 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 776, 569 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 424, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 424, 218 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 218, 152 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 152, 142 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 569, 205 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 205, 21 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 21 and 205, 132 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 21 and 132, 110 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 110 and 132, 113 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 8 tries to guessed it.
+Thread[10] : Start picking random number
+Thread[11] : In a range of 122 and 142, 130 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 130, 129 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 129, 124 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 10 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 674
+Thread[11] : In a range of 1 and 1000, 674 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 674, 361 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 361, 282 seems a bit too high. Choosing a lower number
+Thread[10] : Initial guess : 848
+Thread[10] : In a range of 1 and 1000, 848 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 848, 612 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 612, 487 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 487, 399 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 399, 261 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 1 and 282, 44 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 44 and 282, 223 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 44 and 223, 187 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 44 and 187, 168 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 44 and 168, 157 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 261, 231 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 1 and 231, 99 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 99 and 231, 221 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 99 and 221, 105 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 44 and 157, 104 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 104 and 157, 109 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 109 and 157, 142 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 109 and 142, 111 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 105 and 221, 148 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 105 and 148, 107 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 107 and 148, 122 seems a bit too low. Choosing a higher number
+Thread[10] : In a range of 122 and 148, 129 seems a bit too high. Choosing a lower number
+Thread[10] : In a range of 122 and 129, 122 seems a bit too low. Choosing a higher number
+Thread[10] : Found the number you've chosen which is 123. Took me 15 tries to guessed it.
+Thread[11] : In a range of 111 and 142, 112 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 112 and 142, 128 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 112 and 128, 118 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 118 and 128, 118 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 118 and 128, 126 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 118 and 126, 124 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 118 and 124, 121 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 121 and 124, 122 seems a bit too low. Choosing a higher number
+Thread[11] : Found the number you've chosen which is 123. Took me 21 tries to guessed it.
+Thread[11] : Start picking random number
+Thread[11] : Initial guess : 64
+Thread[11] : In a range of 1 and 1000, 64 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 64 and 1000, 255 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 64 and 255, 138 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 64 and 138, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 138, 130 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 130, 122 seems a bit too low. Choosing a higher number
+Thread[11] : In a range of 122 and 130, 126 seems a bit too high. Choosing a lower number
+Thread[11] : In a range of 122 and 126, 125 seems a bit too high. Choosing a lower number
+Thread[11] : Found the number you've chosen which is 123. Took me 9 tries to guessed it.
